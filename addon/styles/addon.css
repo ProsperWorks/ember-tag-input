@@ -21,8 +21,10 @@
 }
 
 .emberTagInput-tag {
+  background: cornflowerblue;
   border-radius: 20px;
   margin-right: 5px;
+  color: white;
 }
 
 .emberTagInput-tag--remove {
